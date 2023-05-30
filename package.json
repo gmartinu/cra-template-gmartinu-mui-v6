@@ -1,23 +1,23 @@
 {
-    "name": "cra-template-gmartinu-mui-v6",
-    "version": "1.0.0",
-    "keywords": [
-      "react",
-      "create-react-app",
-      "template"
-    ],
-    "description": "The base template for Create React App + Mui v6 + React Router V6.",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/gmartinu/cra-template-gmartinu-mui-v6.git",
-      "directory": "packages/cra-template-gmartinu-mui-v6"
-    },
-    "license": "MIT",
-    "engines": {
-      "node": ">=14"
-    },
-    "files": [
-      "template",
-      "template.json"
-    ]
-  }
+  "name": "cra-template-gmartinu-mui-v6",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "The base template for Create React App + Mui v6 + React Router V6.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmartinu/cra-template-gmartinu-mui-v6.git",
+    "directory": "packages/cra-template-gmartinu-mui-v6"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
