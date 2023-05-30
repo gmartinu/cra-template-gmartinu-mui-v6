@@ -9,8 +9,8 @@
     "description": "The base template for Create React App + Mui v6 + React Router V6.",
     "repository": {
       "type": "git",
-      "url": "https://github.com/facebook/create-react-app.git",
-      "directory": "packages/cra-template"
+      "url": "https://github.com/gmartinu/cra-template-gmartinu-mui-v6.git",
+      "directory": "packages/cra-template-gmartinu-mui-v6"
     },
     "license": "MIT",
     "engines": {
