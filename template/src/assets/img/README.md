@@ -1,0 +1,1 @@
+Use this folder to stock your own images

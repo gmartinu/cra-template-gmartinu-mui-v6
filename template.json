@@ -1,0 +1,60 @@
+{
+  "package": {
+    "dependencies": {
+      "@emotion/react": "^11.11.0",
+      "@emotion/styled": "^11.11.0",
+      "@fontsource/roboto": "^5.0.1",
+      "@mui/icons-material": "^5.11.16",
+      "@mui/material": "^5.13.3",
+      "moment": "^2.29.4",
+      "react-router-dom": "^6.11.2"
+    },
+    "eslintConfig": {
+      "extends": [
+        "react-app",
+        "react-app/jest"
+      ],
+      "overrides": [
+        {
+          "files": [
+            "**/*.stories.*"
+          ],
+          "rules": {
+            "import/no-anonymous-default-export": "off"
+          }
+        },
+        {
+          "files": [
+            "**/*.stories.*"
+          ],
+          "rules": {
+            "import/no-anonymous-default-export": "off"
+          }
+        }
+      ]
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    },
+    "packageManager": "yarn@3.5.1",
+    "devDependencies": {
+      "@babel/core": "^7.22.1",
+      "@babel/eslint-parser": "^7.21.8",
+      "@babel/eslint-plugin": "^7.19.1",
+      "@babel/plugin-syntax-jsx": "^7.21.4",
+      "@babel/preset-react": "^7.22.3",
+      "eslint": "^8.41.0",
+      "eslint-plugin-import": "^2.27.5",
+      "eslint-plugin-jsx-a11y": "^6.7.1"
+    }
+  }
+}
